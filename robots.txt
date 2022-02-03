@@ -1,6 +1,0 @@
-User-Agent: *
-Disallow: 
-Allow: /
-
-Sitemap:  "https://subha-822.github.io/BOWN/sitemap.xml"
-
